@@ -1,0 +1,2 @@
+# fishy-bot
+private bot
